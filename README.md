@@ -1,2 +1,2 @@
-super-sdk-space package
+npmjs-sdk-space package
 npmjs install 
